@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "uber",
-    "slug": "uber",
+    "name": "bookAmbulance",
+    "slug": "bookAmbulance",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -30,7 +30,7 @@
       [
         "expo-router",
         {
-          "origin": "https://uber.dev/"
+          "origin": "https://bookAmbulance.dev/"
         }
       ]
     ],
